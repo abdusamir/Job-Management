@@ -133,8 +133,8 @@ This guide provides clear steps to build, configure, and run the Job Management 
 3. **Clone the Project**
     - Clone the repository to your local machine:
       ```bash
-      git clone <repository-url>
-      cd <repository-folder>
+      git clone [https://github.com/abdusamir/Job-Management>](https://github.com/abdusamir/Job-Management)
+      cd Job-Management
       ```
 
 ---
